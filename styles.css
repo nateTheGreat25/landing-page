@@ -4,7 +4,9 @@ body {
 
 
 
-.orange-cat {
+.orange-cat, .cow-cat, .black-cat, .grey-cat, .calico-cat  {
     width: 25%;
     height: auto;
 }
+
+ 
