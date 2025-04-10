@@ -1,12 +1,43 @@
 body {
     font-family: Roboto;
+    margin: 0;
+    
+    
 }
 
 
 
-.orange-cat, .cow-cat, .black-cat, .grey-cat, .calico-cat  {
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+}
+
+h4 {
+    font-size: 24px;
+    color: #E5E7EB;
+    margin: 0;
+}
+
+
+
+.orange-cat  {
     width: 25%;
     height: auto;
 }
 
- 
+.cow-cat, .black-cat, .grey-cat, .calico-cat  {
+    width: 25%;
+    height: auto;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 150px;
+}
+
+.header-links {
+    display: flex;
+    gap: 20px;
+}
