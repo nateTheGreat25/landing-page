@@ -21,7 +21,7 @@ h4 {
 
 
 .orange-cat  {
-    width: 25%;
+    width: 40%;
     height: auto;
 }
 
@@ -40,4 +40,30 @@ h4 {
 .header-links {
     display: flex;
     gap: 20px;
+}
+
+.hero {
+    padding: 120px 150px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;;
+}
+
+.hero-info {
+    font-size: 18px;
+    color:#E5E7EB
+}
+
+.top-button {
+    font-size: 18px;
+    padding: 5px 30px;
+    border-radius: 12px;
+    background-color: #3882f6;
+    color: #f9faf8;
 }
