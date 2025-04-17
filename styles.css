@@ -114,3 +114,10 @@ h1 {
     font-style: normal;
     align-self: flex-end;
 }
+
+.action {
+    margin: 100px 150px;
+    background-color: #3882f6;
+    display: flex;
+    border-radius: 12px;
+}
